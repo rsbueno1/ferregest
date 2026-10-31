@@ -1,0 +1,41 @@
+Issue Type,Summary,Parent,Tipo de tarea,Assignee,Original Estimate (h)
+Sub-task,HU-01 · Diseño técnico y modelo de datos,HU-01,Técnica,Aiker Suli,3
+Sub-task,HU-01 · Implementar API en NestJS y configurar base de datos,HU-01,Técnica,Aiker Suli,6
+Sub-task,HU-01 · Implementar pantalla en React y conectar con la API,HU-01,Técnica,Randolph Bueno,6
+Sub-task,HU-01 · Pruebas unitarias y de integración,HU-01,Técnica,Aiker Suli,3
+Sub-task,HU-01 · Diseño y validación de la interfaz de usuario,HU-01,Funcional,Leurys Fernández,3
+Sub-task,HU-01 · Escribir sección del manual de usuario,HU-01,Funcional,Leurys Fernández,2
+Sub-task,HU-01 · Pruebas de aceptación según criterios,HU-01,Funcional,Leurys Fernández,3
+Sub-task,HU-01 · Revisión y feedback del equipo,HU-01,Funcional,Saviel Helena,1
+Sub-task,HU-04 · Diseño técnico y modelo de datos,HU-04,Técnica,Aiker Suli,3
+Sub-task,HU-04 · Implementar API en NestJS y configurar base de datos,HU-04,Técnica,Aiker Suli,6
+Sub-task,HU-04 · Implementar pantalla en React y conectar con la API,HU-04,Técnica,Randolph Bueno,6
+Sub-task,HU-04 · Pruebas unitarias y de integración,HU-04,Técnica,Aiker Suli,3
+Sub-task,HU-04 · Diseño y validación de la interfaz de usuario,HU-04,Funcional,Leurys Fernández,3
+Sub-task,HU-04 · Escribir sección del manual de usuario,HU-04,Funcional,Leurys Fernández,2
+Sub-task,HU-04 · Pruebas de aceptación según criterios,HU-04,Funcional,Leurys Fernández,3
+Sub-task,HU-04 · Revisión y feedback del equipo,HU-04,Funcional,Saviel Helena,1
+Sub-task,HU-05 · Diseño técnico y modelo de datos,HU-05,Técnica,Aiker Suli,3
+Sub-task,HU-05 · Implementar API en NestJS y configurar base de datos,HU-05,Técnica,Aiker Suli,6
+Sub-task,HU-05 · Implementar pantalla en React y conectar con la API,HU-05,Técnica,Randolph Bueno,6
+Sub-task,HU-05 · Pruebas unitarias y de integración,HU-05,Técnica,Aiker Suli,3
+Sub-task,HU-05 · Diseño y validación de la interfaz de usuario,HU-05,Funcional,Leurys Fernández,3
+Sub-task,HU-05 · Escribir sección del manual de usuario,HU-05,Funcional,Leurys Fernández,2
+Sub-task,HU-05 · Pruebas de aceptación según criterios,HU-05,Funcional,Leurys Fernández,3
+Sub-task,HU-05 · Revisión y feedback del equipo,HU-05,Funcional,Saviel Helena,1
+Sub-task,HU-06 · Diseño técnico y modelo de datos,HU-06,Técnica,Aiker Suli,3
+Sub-task,HU-06 · Implementar API en NestJS y configurar base de datos,HU-06,Técnica,Aiker Suli,6
+Sub-task,HU-06 · Implementar pantalla en React y conectar con la API,HU-06,Técnica,Randolph Bueno,6
+Sub-task,HU-06 · Pruebas unitarias y de integración,HU-06,Técnica,Aiker Suli,3
+Sub-task,HU-06 · Diseño y validación de la interfaz de usuario,HU-06,Funcional,Leurys Fernández,3
+Sub-task,HU-06 · Escribir sección del manual de usuario,HU-06,Funcional,Leurys Fernández,2
+Sub-task,HU-06 · Pruebas de aceptación según criterios,HU-06,Funcional,Leurys Fernández,3
+Sub-task,HU-06 · Revisión y feedback del equipo,HU-06,Funcional,Saviel Helena,1
+Sub-task,HU-07 · Diseño técnico y modelo de datos,HU-07,Técnica,Aiker Suli,3
+Sub-task,HU-07 · Implementar API en NestJS y configurar base de datos,HU-07,Técnica,Aiker Suli,6
+Sub-task,HU-07 · Implementar pantalla en React y conectar con la API,HU-07,Técnica,Randolph Bueno,6
+Sub-task,HU-07 · Pruebas unitarias y de integración,HU-07,Técnica,Aiker Suli,3
+Sub-task,HU-07 · Diseño y validación de la interfaz de usuario,HU-07,Funcional,Leurys Fernández,3
+Sub-task,HU-07 · Escribir sección del manual de usuario,HU-07,Funcional,Leurys Fernández,2
+Sub-task,HU-07 · Pruebas de aceptación según criterios,HU-07,Funcional,Leurys Fernández,3
+Sub-task,HU-07 · Revisión y feedback del equipo,HU-07,Funcional,Saviel Helena,1

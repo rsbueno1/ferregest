@@ -1,0 +1,25 @@
+Issue Id,Issue Type,Summary,Description,Epic Link,Parent Id,Story Points,Priority,Assignee,Labels
+1,Epic,EP-01 Catálogo e inventario en tiempo real,"Artículos con código de barras y unidades de medida, existencias por almacén. Ataca el descuadre de inventario del 8 %.",,,,Highest,Saviel Helena,
+2,Epic,EP-02 Punto de venta y facturación fiscal,"Venta con escáner, formas de pago, e-CF y cuadre de caja. Fuera de este sprint.",,,,High,Saviel Helena,
+3,Story,HU-01 Consultar existencias por almacén,"Como encargado de almacén quiero consultar la existencia de un artículo en cada almacén para saber dónde hay mercancía sin ir a contarla.
+
+CA1: Dado que el artículo existe, cuando lo busco, entonces veo la existencia por almacén y el total.
+CA2: Dado que ajusto la cantidad en un almacén, cuando guardo, entonces el total se recalcula.",EP-01,,5,High,Aiker Suli,sprint1
+4,Story,HU-04 Crear artículo,"Como encargado de catálogo quiero crear un artículo con código de barras, unidad y precio para poder venderlo después.
+
+CA1: Dado un formulario completo, cuando guardo, entonces el artículo aparece en el listado.
+CA2: Dado un código de barras ya registrado, cuando guardo, entonces veo el aviso «Ya existe un artículo con ese código de barras».
+CA3: Dado un precio negativo o un campo obligatorio vacío, cuando guardo, entonces el sistema lo rechaza.",EP-01,,3,High,Randolph Bueno,sprint1
+5,Story,HU-05 Listar y buscar artículos,"Como encargado de catálogo quiero listar y buscar artículos por nombre o código de barras para encontrarlos rápido.
+
+CA1: Dado que hay artículos, cuando abro el catálogo, entonces veo la lista con código, nombre, unidad, precio y estado.
+CA2: Dado que escribo parte del nombre o código, cuando busco, entonces la lista se filtra.
+CA3: Dado que no hay coincidencias, cuando busco, entonces veo un mensaje que me invita a crear el artículo.",EP-01,,3,High,Randolph Bueno,sprint1
+6,Story,HU-06 Editar artículo,"Como encargado de catálogo quiero editar los datos de un artículo para corregir precios o nombres.
+
+CA1: Dado un artículo existente, cuando cambio el precio y guardo, entonces el listado muestra el nuevo precio.
+CA2: Dado un código de barras de otro artículo, cuando guardo, entonces el sistema lo rechaza.",EP-01,,2,Medium,Aiker Suli,sprint1
+7,Story,HU-07 Desactivar artículo,"Como encargado de catálogo quiero desactivar un artículo para que deje de aparecer sin perder su historial.
+
+CA1: Dado un artículo activo, cuando lo desactivo y confirmo, entonces desaparece del catálogo.
+CA2: Dado que activo «Mostrar desactivados», cuando consulto, entonces lo veo marcado como desactivado.",EP-01,,2,Medium,Randolph Bueno,sprint1
