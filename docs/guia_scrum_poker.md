@@ -11,7 +11,7 @@
 5. Al llegar al consenso, Saviel registra los puntos en Jira.
 6. Repetir con cada historia.
 
-## Estimaciones propuestas (se confirman en la sesión real)
+## Estimaciones propuestas 
 | Historia | Puntos |
 |---|---|
 | HU-01 Consultar existencias | 5 |
@@ -20,8 +20,3 @@
 | HU-06 Editar | 2 |
 | HU-07 Desactivar | 2 |
 | **Total** | **15** |
-
-## Para el video
-- Que se vean y se escuchen los 6 y la pantalla compartida.
-- Mostrar al menos una historia con diferencia de votos y cómo se resolvió.
-- Subirlo a OneDrive/YouTube como **público** y probar el enlace en modo incógnito.
